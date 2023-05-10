@@ -1,0 +1,10 @@
+{
+    adaptiveConstant = <*I7>;
+    commandList = "[{captureRect:[14, 415, 63, 464], elementName:\"image0005\", eventNum:2, folderPath:\"\", hotSpot:[42, 319], imageName:\"image0005\", itemEvent:\"TurboListItemEvent_DoubleClick\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0002.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}, {captureRect:[114, 692, 328, 723], elementName:\"image0006\", eventNum:6, folderPath:\"\", hotSpot:[179, 67], imageName:\"image0006\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0006.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:4}, {captureRect:[0, 0, 0, 0], elementName:\"UNKNOWN\", eventNum:8, folderPath:\"\", imageName:\"\", itemEvent:\"TurboListItemEvent_TypeText\", itemMode:\"TurboListItemMode_New\", itemType:\"TurboListItemType_TypeText\", screenShotFile:\"Screen0008.png\", skipStep:False, text:@\"\\\"e\\\",Backspace,\\\"www.keysight.com\\\",Return\", userModified:False, usingTempImageName:True, waitForTime:-1}, {captureRect:[980, 745, 996, 761], elementName:\"image0007\", eventNum:46, folderPath:\"\", hotSpot:[983, 20], imageName:\"image0007\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0046.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}]";
+    dilations = <*I3>;
+    maxSize = <*I300>;
+    minSize = <*I16>;
+    savedWithEpfVersion = <*I2008041536>;
+    sessionType = turboSession;
+    sessionUsesDOMObjects = <*BN>;
+}

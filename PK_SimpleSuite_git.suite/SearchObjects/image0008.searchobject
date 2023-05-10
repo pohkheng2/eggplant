@@ -1,0 +1,65 @@
+{
+	"lastmodifieddate": 1614318194.6240001,
+	"lastfoundlocation": [
+		14,
+		304,
+		49,
+		49
+	],
+	"originalcapturelocation": [
+		14,
+		304,
+		49,
+		49
+	],
+	"createddate": 1614318169.7280002,
+	"lastfounddate": 1614318206.178,
+	"testlocationdata": [
+		{
+				"name": "image0008.png",
+				"type": 1,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[43,23]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"capturerect": [
+					14,
+					304,
+					49,
+					49
+				]
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[43,23]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "image0008.png",
+				"connectionname": "ec2-54-154-191-127.eu-west-1.compute.amazonaws.com",
+				"type": 1,
+				"capturerect": [
+					14,
+					304,
+					49,
+					49
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "ec2-54-154-191-127.eu-west-1.compute.amazonaws.com"
+			}
+	],
+	"name": "image0008"
+}

@@ -1,0 +1,25 @@
+{
+	"lastmodifieddate": 1612507717.102,
+	"ocrcapturestring": "n° Google Chrome",
+	"originalcapturelocation": [
+		0,
+		298,
+		83,
+		93
+	],
+	"createddate": 1612507717.102,
+	"testlocationdata": [
+		{
+				"name": "image0001.png",
+				"type": 1,
+				"capturerect": [
+					0,
+					298,
+					83,
+					93
+				],
+				"capturedocrtext": "n° Google Chrome"
+			}
+	],
+	"name": "image0001"
+}

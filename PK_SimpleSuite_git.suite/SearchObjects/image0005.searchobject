@@ -1,0 +1,30 @@
+{
+	"lastmodifieddate": 1613622773.8439999,
+	"lastfoundlocation": [
+		14,
+		304,
+		49,
+		49
+	],
+	"originalcapturelocation": [
+		14,
+		304,
+		49,
+		49
+	],
+	"createddate": 1613622773.8439999,
+	"lastfounddate": 1614318167.4650002,
+	"testlocationdata": [
+		{
+				"name": "image0005.png",
+				"type": 1,
+				"capturerect": [
+					14,
+					304,
+					49,
+					49
+				]
+			}
+	],
+	"name": "image0005"
+}

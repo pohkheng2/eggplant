@@ -1,0 +1,10 @@
+{
+    adaptiveConstant = <*I7>;
+    commandList = "[{captureRect:[14, 415, 63, 464], elementName:\"image0008\", eventNum:2, folderPath:\"\", hotSpot:[57.962264, 327.68], imageName:\"image0008\", itemEvent:\"TurboListItemEvent_DoubleClick\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0002.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}, {captureRect:[276, 228, 300, 252], elementName:\"image0009\", eventNum:6, folderPath:\"\", hotSpot:[298.903441, 524.515556], imageName:\"image0009\", itemEvent:\"TurboListItemEvent_DoubleClick\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0006.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:13}, {captureRect:[994, 746, 1010, 762], elementName:\"image0010\", eventNum:10, folderPath:\"\", hotSpot:[998.99667, 15.928889], imageName:\"image0010\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0010.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}]";
+    dilations = <*I3>;
+    maxSize = <*I300>;
+    minSize = <*I16>;
+    savedWithEpfVersion = <*I2101270037>;
+    sessionType = turboSession;
+    sessionUsesDOMObjects = <*BN>;
+}

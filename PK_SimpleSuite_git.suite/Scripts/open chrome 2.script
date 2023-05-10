@@ -1,0 +1,22 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2021-02-10 15:22:47
+  From session:  open chrome 2
+  Captured on:  2021-02-10 15:22:23
+  From server:  ec2-54-154-191-127eu-west-1computeamazonawscom
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+TypeText altKey, F2
+TypeText "google-chrome"
+TypeText returnKey
+
+wait 10
+
+TypeText "www.keysight.com"
+
+wait 10
+
+TypeText returnKey
+
+wait 10
+
+TypeText altKey, F4

@@ -1,0 +1,25 @@
+{
+	"lastmodifieddate": 1613622775.2589998,
+	"ocrcapturestring": "G",
+	"originalcapturelocation": [
+		114,
+		45,
+		214,
+		31
+	],
+	"createddate": 1613622775.2589998,
+	"testlocationdata": [
+		{
+				"name": "image0006.png",
+				"type": 1,
+				"capturerect": [
+					114,
+					45,
+					214,
+					31
+				],
+				"capturedocrtext": "G"
+			}
+	],
+	"name": "image0006"
+}

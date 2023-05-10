@@ -1,0 +1,10 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2021-02-26 13:42:49
+  From session:  untitled session
+  Captured on:  2021-02-26 13:42:01
+  From server:  ec2-54-154-191-127eu-west-1computeamazonawscom
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "image0008"
+DoubleClick (Image:"image0009", WaitFor:13)
+Click "image0010"

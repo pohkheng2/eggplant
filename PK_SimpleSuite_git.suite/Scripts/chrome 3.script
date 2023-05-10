@@ -1,0 +1,13 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2021-02-18 12:32:53
+  From session:  chrome 3
+  Captured on:  2021-02-18 12:31:36
+  From server:  ec2-54-154-191-127eu-west-1computeamazonawscom
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "image0005"
+Click (Image:"image0006", WaitFor:4)
+wait 5
+TypeText "www.keysight.com",Return
+wait 10
+Click "image0007"

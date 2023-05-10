@@ -1,0 +1,10 @@
+{
+    adaptiveConstant = <*I7>;
+    commandList = "[{captureRect:[14, 415, 63, 464], elementName:\"image0003\", eventNum:2, folderPath:\"\", hotSpot:[49.110204, 341.097931], imageName:\"image0003\", itemEvent:\"TurboListItemEvent_DoubleClick\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0002.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}, {captureRect:[986, 745, 1002, 761], elementName:\"image0004\", eventNum:6, folderPath:\"\", hotSpot:[992.653061, 21.186207], imageName:\"image0004\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0006.png\", searchType:\"Tolerant of Background\", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}]";
+    dilations = <*I3>;
+    maxSize = <*I300>;
+    minSize = <*I16>;
+    savedWithEpfVersion = <*I2008041536>;
+    sessionType = turboSession;
+    sessionUsesDOMObjects = <*BN>;
+}
